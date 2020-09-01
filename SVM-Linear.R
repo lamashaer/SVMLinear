@@ -1,4 +1,7 @@
 
+# using e1071  
+  #David Meyer, Evgenia Dimitriadou, Kurt Hornik, Andreas Weingessel and  Friedrich Leisch (2019). e1071: Misc Functions of the Department of
+  #Statistics, Probability Theory Group (Formerly: E1071), TU Wien. R package version 1.7-3. https://CRAN.R-project.org/package=e1071
 
 rm(list = ls())
 library(e1071)
